@@ -1,3 +1,5 @@
+utf16をshiftjisに変換するためのテーブル。
+
 こんな風に使いたい。
 
 wchar_t wszUnicode[50];
