@@ -1,5 +1,5 @@
 utf16をshiftjisに変換するためのテーブル。
-
+(STM32マイコンで漢字を使いたい)
 こんな風に使いたい。
 
 wchar_t wszUnicode[50];
