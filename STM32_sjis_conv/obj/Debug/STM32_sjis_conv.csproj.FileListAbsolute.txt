@@ -1,0 +1,10 @@
+D:\vccw\STM32_sjis_conv\bin\Debug\STM32_sjis_conv.exe.config
+D:\vccw\STM32_sjis_conv\bin\Debug\STM32_sjis_conv.exe
+D:\vccw\STM32_sjis_conv\bin\Debug\STM32_sjis_conv.pdb
+D:\vccw\STM32_sjis_conv\obj\Debug\STM32_sjis_conv.Properties.Resources.resources
+D:\vccw\STM32_sjis_conv\obj\Debug\STM32_sjis_conv.csproj.GenerateResource.cache
+D:\vccw\STM32_sjis_conv\obj\Debug\STM32_sjis_conv.csproj.CoreCompileInputs.cache
+D:\vccw\STM32_sjis_conv\obj\Debug\STM32_sjis_conv.exe
+D:\vccw\STM32_sjis_conv\obj\Debug\STM32_sjis_conv.pdb
+D:\vccw\STM32_sjis_conv\obj\Debug\STM32_sjis_conv.Form1.resources
+D:\vccw\STM32_sjis_conv\obj\Debug\STM32_sjis_conv.csproj.AssemblyReference.cache
